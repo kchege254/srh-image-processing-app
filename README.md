@@ -9,8 +9,8 @@ This guide will walk you through setting up the project, creating your own modul
 ## Project Timeline
 
 -   **Project Start:** Now
--   **Project Deadline:** All pull requests must be created and submitted by **Tuesday, 16th at midnight (Group 1)** and **Wednesday, 17th at midnight (Group 2)**.
--   **Project Presentations:** Wednesday 17th (Group 1), Thursday 18th (Group 2)
+-   **Project Deadline:** All pull requests must be created and submitted by **Wednesday, 22nd July at midnight**.
+-   **Project Presentations:** Thursday 23rd
 
 ## 1. Project Setup
 
@@ -21,8 +21,8 @@ First, you need to get the project code running on your local machine.
 Open your terminal or Git client and clone the project repository to your computer.
 
 ```bash
-git clone https://github.com/guijoe/srh-image-viewer.git
-cd srh-image-viewer
+git clone https://github.com/guijoe/srh-image-processing-app.git
+cd srh-image-processing-app
 ```
 
 ### 1.2. Create a Virtual Environment
